@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "chart.js": "^2.9.2",
     "moment": "^2.24.0",
+=======
+>>>>>>> parent of bb8664e... Tic-tac-toe game in react
     "react": "^16.11.0",
-    "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.11.0",
     "react-moment": "^0.9.6",
     "react-scripts": "3.2.0"
